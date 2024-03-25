@@ -1,5 +1,5 @@
 # Gym-Website
-# "Welcome to our Gym Website project! 💪🏋️‍♂️
+# Welcome to our Gym Website project! 💪🏋️‍♂️
 
 This repository houses the code for our dynamic and visually appealing gym website created using HTML and CSS. Designed with modern web development principles in mind, our site offers a sleek and user-friendly interface to showcase our gym's services, facilities, and classes.
 
